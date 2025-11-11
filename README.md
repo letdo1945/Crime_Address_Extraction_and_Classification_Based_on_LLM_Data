@@ -1,5 +1,5 @@
-# Crime_Address_Extraction_Based_on_LLM_Data
-Data in this repository is for the paper **Crime Address Extraction from Chinese Judicial Documents Based on Large Language Model**.
+# Crime_Address_Extraction_and_Classification_Based_on_LLM_Data
+Data in this repository is for the paper **Theft Address Extraction and Classification from Chinese Judicial Documents Based on Large Language Model**.
 
 Below is an overview of each file in this repository.
 
